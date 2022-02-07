@@ -32,4 +32,4 @@ end
 
 class BookInStock
 # YOUR CODEddd HERE
-end
+endddd
