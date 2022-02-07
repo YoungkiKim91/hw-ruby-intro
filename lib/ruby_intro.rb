@@ -3,7 +3,7 @@
 # Part 1
 
 def sum arr
-  # YOUR CODE HERE
+   Yffffffc
 end
 
 def max_2_sum arr
@@ -31,5 +31,5 @@ end
 # Part 3
 
 class BookInStock
-# YOUR CODE HERE
+# YOUR CODEddd HERE
 end
